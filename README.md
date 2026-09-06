@@ -44,3 +44,7 @@ The goal of this project is to make study planning easier and more personalized 
 
 ⭐ Built as part of my learning journey in AWS Generative AI and Agentic AI.# study-session-planner-pro
 An AI-powered study planning application built with AWS PartyRock to help students create personalized and structured study sessions.
+
+## 🔗 Project Link
+
+[Study Session Planner Pro - AWS PartyRock](https://partyrock.aws/u/Sanyadaryani/EfEWISy-e/Study-Session-Planner-Pro)
